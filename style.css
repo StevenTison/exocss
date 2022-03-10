@@ -1,0 +1,60 @@
+body
+{
+    background-color: #cecece;
+}
+h1
+{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.entete
+{
+    text-align: center;
+    font-size: large;
+}
+figure
+{
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 5px;
+}
+figcaption
+{
+    text-align: center;
+    font-size: small;
+    background-color: #FFFFFF;
+}
+h2
+{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+div
+{
+    margin-left: 30%;
+}
+li
+{
+    font-size: medium;
+    width: 50%;
+    padding: 5px;
+
+}
+.citation
+{
+    text-align:center ;
+    margin-left: 25%;
+    width: 50%;
+}
+.author
+{
+    text-align: center;
+}
+.wiki
+{
+    text-align: center;
+    font-weight: bold;
+
+}
