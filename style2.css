@@ -1,0 +1,29 @@
+h1, .entete
+{
+   text-align: center;
+   color: white;
+}
+body
+{
+    background-image: linear-gradient( 115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7)), url(background.png);
+}
+fieldset
+{
+    background: linear-gradient( rgba(27, 27, 50, 0.8), rgba(27, 27, 50, 0.8));
+    color: white;
+    margin-left: 36%;
+    margin-right: 36%;
+    white-space: pre-line;
+    white-space: pre-wrap;
+    font-size: large;
+}
+input[type=text], select, input[type=email]
+{
+    width: 400px;
+}
+input[type=submit]
+{
+    background-color: green;
+    color:white;
+    width: 400px;
+}
