@@ -1,0 +1,56 @@
+.main
+{
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: repeat(4, 25%);
+    grid-gap: 10px;
+    height: 920px;
+}
+.un
+{
+    grid-column: 2 / 4;
+    grid-row: 1;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.deux
+{
+    grid-column: 2;
+    grid-row: 2;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.trois
+{
+    grid-column: 3;
+    grid-row: 2;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.quatre
+{
+    grid-column: 2;
+    grid-row: 3;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.cinq
+{
+    grid-column: 3;
+    grid-row: 3;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+.six
+{
+    grid-column: 2 / 4;
+    grid-row: 4;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
