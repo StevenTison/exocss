@@ -1,0 +1,67 @@
+html
+{
+    height: 100%;
+}
+body
+{
+ height: 100%;
+}
+nav
+{
+    display: flex;
+    justify-content: space-between;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+ul
+{
+    display: flex;
+    list-style: none;
+}
+li
+{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.pencil
+{
+    height: 50px;
+    width: 50px;
+}
+article
+{
+    padding: 20px;
+    border-width: 1px;
+    height: 100%;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.ananas
+{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    border-width: 1px;
+    border-style: solid;
+}
+p
+{
+    display: flex;
+    align-items: center;
+    border-width: 1px;
+    border-style: solid;
+    flex-basis: 500px;
+}
+.ananasdeux
+{
+    display: flex;
+    align-self: flex-end;
+    height: 200px;
+    width: 200px;
+    border-width: 1px;
+    border-style: solid;
+}
